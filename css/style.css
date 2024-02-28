@@ -1,0 +1,33 @@
+body {
+    background-color: #b9cdda;
+    color: #3d2c78;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+
+ul {
+    color: rgb(255, 0, 100);
+    font-size: 30px;
+    padding: 0;
+    text-align: center;
+    margin: 0 auto;
+    width: fit-content;
+    list-style-position: inside;
+}   
+li {
+    text-align: left;   
+
+}
+a {
+    text-decoration: none;
+    color: rgb(255, 0, 100);
+    font-size: 30px;
+}
+
+
+.flex {
+    margin-top: 100px;
+    display: flex;
+}
